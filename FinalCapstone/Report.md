@@ -24,4 +24,3 @@ Neighbourhood information can be accessed through: https://www.post.japanpost.jp
 
 Neighbourhood's coordinates: http://nlftp.mlit.go.jp/isj/index.html
 
-~~The problem is: I cannot find the coordinates of each neighborhoods available from the internet, so I decide to collect them by myself via Geocoders library.~~
