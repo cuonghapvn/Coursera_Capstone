@@ -18,6 +18,10 @@ To figure this out I want to compare the various neighbourhoods in Osaka to see 
 
 ## Data
 To know more about Osaka I need as much data as possible.
-I will utilize neighbourhood’s information of Osaka, Foursquare information on venue categories, top tips, location data, ratings to tackle this task. Neighbourhood information can be accessed through: https://www.post.japanpost.jp/zipcode/dl/roman-zip.html
+I will utilize neighbourhood’s information of Osaka, Foursquare information on venue categories, top tips, location data, ratings to tackle this task. 
 
-The problem is: I cannot find the coordinates of each neighborhoods available from the internet, so I decide to collect them by myself via Geocoders library.
+Neighbourhood information can be accessed through: https://www.post.japanpost.jp/zipcode/dl/roman-zip.html
+
+Neighbourhood's coordinates: http://nlftp.mlit.go.jp/isj/index.html
+
+~~The problem is: I cannot find the coordinates of each neighborhoods available from the internet, so I decide to collect them by myself via Geocoders library.~~
