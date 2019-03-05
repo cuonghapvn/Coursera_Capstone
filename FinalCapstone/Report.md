@@ -22,5 +22,5 @@ I will utilize neighbourhood’s information of Osaka, Foursquare information on
 
 Neighbourhood information can be accessed through: https://www.post.japanpost.jp/zipcode/dl/roman-zip.html
 
-Neighbourhood's coordinates: http://nlftp.mlit.go.jp/isj/index.html
+Neighbourhood's coordinates: http://nlftp.mlit.go.jp/isj/index.html; http://jusyo.jp/index.html
 
